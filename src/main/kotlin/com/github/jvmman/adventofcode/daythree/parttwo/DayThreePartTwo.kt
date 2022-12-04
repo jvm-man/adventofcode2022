@@ -1,4 +1,4 @@
-package com.github.jvmman.adventofcode.daythree
+package com.github.jvmman.adventofcode.daythree.parttwo
 
 import java.io.File
 
