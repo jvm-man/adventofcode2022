@@ -15,5 +15,7 @@ fun main() {
         }
     }
 
+    maxCalories = maxOf(maxCalories, currentElf)
+
     println(maxCalories)
 }
